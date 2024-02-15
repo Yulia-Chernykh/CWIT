@@ -6,9 +6,10 @@ using namespace std;
 
 int main()
 {
-    string FIRE = "Phhhsshhhhh", WATER = "Blblblbllblb";
+    string FIRE = "Phhhsshhhhh", WATER = "Blblblbllblb", WIND = "Phhhhhhhhhush";
     cout << "Fire goes like: " << FIRE << endl;
     cout << "Water goes like: " << WATER << endl;
+    cout << "Wind goes like: " << WIND << endl;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
